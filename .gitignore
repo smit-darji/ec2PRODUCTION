@@ -1,0 +1,11 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+*.pub
+*id_rsa
+*.terraform.lock.hcl
+# Module directory
+.terraform/
+
+# JetBrains
+.idea/
